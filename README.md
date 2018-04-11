@@ -1,4 +1,4 @@
-#Hacker News Pipeline
+# Hacker News Pipeline
 
 This is an ongoing project that analyzes stories from Hacker News. The data is from the [Hacker News API](https://hn.algolia.com/api) that returns a JSON dataset format of the top stories in 2014. I initially started the project as a practice to build the DAG pipeline and to output CSV files within the pipeline.
 
